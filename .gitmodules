@@ -1,0 +1,3 @@
+[submodule "Projects/SFND_3D_Object_Tracking"]
+	path = Projects/SFND_3D_Object_Tracking
+	url = https://github.com/irfanbadshah/SFND_3D_Object_Tracking.git
