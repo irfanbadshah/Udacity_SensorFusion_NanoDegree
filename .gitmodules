@@ -1,3 +1,15 @@
 [submodule "Projects/SFND_3D_Object_Tracking"]
 	path = Projects/SFND_3D_Object_Tracking
 	url = https://github.com/irfanbadshah/SFND_3D_Object_Tracking.git
+[submodule "Projects/SFND_Lidar_Obstacle_Detection"]
+	path = Projects/SFND_Lidar_Obstacle_Detection
+	url = https://github.com/irfanbadshah/SFND_Lidar_Obstacle_Detection.git
+[submodule "Projects/SFND_Radar_Target_Generation_andDetection"]
+	path = Projects/SFND_Radar_Target_Generation_andDetection
+	url = https://github.com/irfanbadshah/SFND_Radar_Target_Generation_andDetection.git
+[submodule "Projects/SFND_Uncented_Kalman_Filter"]
+	path = Projects/SFND_Uncented_Kalman_Filter
+	url = https://github.com/irfanbadshah/SFND_Uncented_Kalman_Filter.git
+[submodule "Projects/SFND_2D_Feature_Matching"]
+	path = Projects/SFND_2D_Feature_Matching
+	url = https://github.com/irfanbadshah/SFND_2D_Feature_Matching.git
